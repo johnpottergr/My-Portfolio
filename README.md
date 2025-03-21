@@ -6,12 +6,14 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 ## My Work
 
 Here’s my resume and a quick video intro:
-
+<table>
+<tr><td>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="./resume.pdf"><img src="./icon.png" alt="PDF Icon" width="128" height="128"></a>
-  <iframe width="320" height="180" src="https://www.youtube.com/embed/7DYhiD3IuxE" frameborder="0" allowfullscreen></iframe>
+  <a href="./resume.pdf"><img src="./icon.png" alt="PDF Icon" width="128" height="128"></a></div></td><td>
+  <iframe width="240" height="135" src="https://www.youtube.com/embed/7DYhiD3IuxE" frameborder="0" allowfullscree></iframe>
 </div>
-
+</td>
+</table
 ## Current Projects
 - [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is a time-intensive project, so it’s on hold while I focus on the job search.
 - [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): SaucerSwap is a DEX on the Hedera Blockchain
