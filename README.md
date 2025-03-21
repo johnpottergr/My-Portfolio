@@ -3,7 +3,7 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 
 ## My Work
 
-Here’s my resume and a quick recommendation video:
+After two years at Edify Content, I’m wrapping up my role and looking for new work—here’s my resume and a short recommendation video:
  
 <div style="display: flex; align-items: center; gap: 60px">
   <a href="./resume.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="128" height="128"></a>
