@@ -11,7 +11,7 @@ Here’s my resume and a quick recommendation video:
 </div>
 <br>
  
-- [My Rate Card](https://johnpottergr.substack.com/)
+- [My Rate Card](./Rate Card_ John Potter.pdf)
  
 ## Current Projects
 - [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is a time-intensive project, so it’s on hold while I focus on the job search.
