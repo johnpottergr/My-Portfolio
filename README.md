@@ -7,7 +7,7 @@ Here’s my resume and a quick recommendation video:
  
 <div style="display: flex; align-items: center; gap: 60px">
   <a href="./resume.pdf"><img src="./icon.png" alt="PDF Icon" width="128" height="128"></a>
-  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" height=128></a>
+  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" target="_blank" height=128></a>
 </div>
   
  
