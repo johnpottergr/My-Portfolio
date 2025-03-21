@@ -1,15 +1,15 @@
 # Hi, I’m John Potter 👋
 Welcome to my GitHub! I’m a writer with a portfolio of published articles. Dive into my work on [LinkedIn](https://www.linkedin.com/in/technologywriter2/l) or download my resume below!
 
-[![PDF Icon](./icon.png)](file:///Users/johnpotter/Downloads/Resume%202025.pdf)
-
 ## My Work
 
-Here’s my resume and a quick video intro:
+Here’s my resume and a quick recommendation video:
  
 <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="./resume.pdf"><img src="./icon.png" alt="PDF Icon" width="128" height="128"></a></div>
-  <iframe width="240" height="135" src="https://www.youtube.com/embed/7DYhiD3IuxE" frameborder="0" allowfullscreen></iframe>
+  <a href="./resume.pdf"><img src="./icon.png" alt="PDF Icon" width="128" height="128"></a>
+  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video"></a>
+</div>
+  
  
 ## Current Projects
 - [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is a time-intensive project, so it’s on hold while I focus on the job search.
