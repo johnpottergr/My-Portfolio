@@ -6,10 +6,14 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 After two years at Edify Content, I’m wrapping up my role and looking for new work—here’s my resume and a short recommendation video:
  
 <div style="display: flex; align-items: center; gap: 60px">
-  <a href="./resume.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="128" height="128"></a>
-  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" target="blank" height=128></a>
-</div>
+  <a href="./resume.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="135" height="135"></a>
+  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" width="240" height="135"></a>
+</div></div>
+
+*Click the thumbnail to watch the video (opens in a new tab if you right-click).*
 <br>
+
+
  
 - [My Rate Card](./rate.pdf)
  
