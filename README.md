@@ -3,10 +3,19 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 
 [![PDF Icon](./icon.png)](file:///Users/johnpotter/Downloads/Resume%202025.pdf)
 
+## My Work
+
+Here’s my resume and a quick video intro:
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="./resume.pdf"><img src="./icon.png" alt="PDF Icon" width="128" height="128"></a>
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/7DYhiD3IuxE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Current Projects
-- [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is time-intensive, so on the back burner with the job search
+- [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is a time-intensive project, so it’s on hold while I focus on the job search.
 - [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): SaucerSwap is a DEX on the Hedera Blockchain
-- Learning [Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23),[Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
+- [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
 
 
 ## Featured Articles
