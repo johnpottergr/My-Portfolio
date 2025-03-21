@@ -9,7 +9,9 @@ Here’s my resume and a quick recommendation video:
   <a href="./resume.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="128" height="128"></a>
   <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" target="_blank" height=128></a>
 </div>
-  
+<br>
+ 
+- [My Rate Card](https://johnpottergr.substack.com/)
  
 ## Current Projects
 - [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is a time-intensive project, so it’s on hold while I focus on the job search.
