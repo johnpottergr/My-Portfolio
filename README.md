@@ -1,6 +1,8 @@
 # Hi, I’m John Potter 👋
 Welcome to my GitHub! I’m a writer with a portfolio of published articles. Dive into my work on [LinkedIn](https://www.linkedin.com/in/technologywriter2/l)!
 
+[![PDF Icon](pdf-icon-url)](file:///Users/johnpotter/Downloads/Resume%202025.pdf)
+
 ## Featured Articles
 
 ### AI / Machine Learning
