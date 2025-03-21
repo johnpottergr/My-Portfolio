@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 
 ### AI / Machine Learning
 - [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/)
-- **Article Title 2** - Exploring [another topic].
+- [How AI is Revolutionizing Data Collaboration](https://revelate.co/blog/how-ai-is-revolutionizing-data-collaboration/#:~:text=Think%20of%20AI%20in%20data,AI%20breaks%20down%20those%20barriers.)
   
 ### Coding
 - [Maximizing Efficiency: Pairing Code Generators with AI Code Reviewers](https://www.linkedin.com/in/technologywriter2/l) 
@@ -14,6 +14,11 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [Static code analyzers vs AI code reviewers: Which is Best?](https://www.coderabbit.ai/blog/static-code-analyzers-vs-ai-code-reviewers-which-is-best)
 
 ### Crypto/DeFi
+- [How Can Value Investors Profit in the Crypto Ecosystem?](https://www.benzinga.com/markets/cryptocurrency/21/09/22864242/how-can-value-investors-profit-in-the-crypto-ecosystem)
+- [Quantum Computing: The Cause of the Next Crypto Crash](https://www.insidequantumtechnology.com/news-archive/quantum-computing-the-cause-of-the-next-crypto-crash/)
+- [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html)
+- [From Scalpels to Qubits: The Story of the World's First Post Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html)
+- [Memechainds Take Meme Coins to the Next Level](https://www.pressreader.com/uk/crypto-magazine/20230629/282419878686631) 
 
 ### Data Engineering
 - [Maximizing Efficiency: Pairing Code Generators with AI Code Reviewers](https://www.linkedin.com/in/technologywriter2/l)
@@ -21,10 +26,12 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [SQL Server Migration Made Easy](https://www.datafold.com/blog/simplify-sql-server-database-migration)
 - [Optimize ETL Processes with dbt](https://www.datafold.com/blog/optimize-etl-processes-with-dbt)
 - [Replicating MongoDB to BigQuery: A practical guide](https://www.datafold.com/blog/mongodb-to-bigquery-data-replication)
+- [How Data Marketplaces Shape Modern Data Products](https://revelate.co/blog/how-data-marketplaces-shape-modern-data-products/)
 
 ### Kubernetes
 - [Kubernetes Compliance with ISO 27001: A Strategic Imperative](https://www.compliancecow.com/compliance/kubernetes-compliance-with-iso-27001-a-strategic-imperative/)
 - [Kubernetes Challenges: Container Orchestration and Scaling](https://www.aptible.com/blog/kubernetes-challenges-container-orchestration-and-scaling)
+- [Kubernetes for Machine Learning: How to Build Your First ML Pipeline](https://dev.to/johnpottergr/kubernetes-for-machine-learning-how-to-build-your-first-ml-pipeline-2040)
 
 ### Markdown 
 - [See my Github work for Gruntwork.io](https://github.com/EdifyContent)
@@ -34,10 +41,11 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [Level Up Your Lookalike Audiences](https://postie.com/blog/level-up-your-lookalike-audiences/)
 - [The Rise of Retail Media Networks](https://postie.com/blog/exploring-the-growth-of-retail-media-networks/)
 - [The Power of Algorithms in Direct Mail Marketing](https://postie.com/blog/the-power-of-algorithms-in-direct-mail-marketing/)
+- [When Direct Mail Meets Deep Learning A Perfect Match](https://docs.google.com/document/d/1wLrWHzGcxx6GJzSHAKSPl0jH-edcOQcvlXFRQILzieI/edit?usp=sharing)
 
 ### Miscellaneous
 - [Mastering Inspection Dispatch and Scheduling With Technology](https://www.gocanvas.com/blog/mastering-inspection-dispatch-scheduling-technology)
-- [Navigating CMMC Certification: A Guide for DoD Contractors](https://www.compliancecow.com/compliance/navigating-cmmc-certification-a-guide-for-dod-contractors)
+
 
 ### Quantum Computing
 - [Nord Quantique Unveils New Technique for Scalable Qubit Error Correction](https://www.iotworldtoday.com/quantum/nord-quantique-unveils-new-technique-for-scalable-qubit-error-correction)
@@ -50,6 +58,9 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 ### Security
 - [Mastering Security Assurance through Hardening, Testing, and Vulnerability Management](https://www.compliancecow.com/compliance/security-assurance/)
 - [Revolutionizing Security Audits: Streamlining Evidence Collection for Efficiency and Cost-Effectiveness](https://www.compliancecow.com/compliance/security-audit/)
+- [Navigating CMMC Certification: A Guide for DoD Contractors](https://www.compliancecow.com/compliance/navigating-cmmc-certification-a-guide-for-dod-contractors)
+- [Zero Trust Security: The New Standard for Robust Cyber Protection](https://docs.google.com/document/d/1q88yiuHj2-vtJudOGhDxCB6nrgycRTKztyt0An301zU/edit?usp=sharing)
+- [Mastering Vulnerability Management: A Guide to CVE and EPSS](https://www.compliancecow.com/compliance/vulnerability-cve-epss/)
 
 
 ### Software Development
