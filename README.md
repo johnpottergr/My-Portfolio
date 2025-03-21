@@ -1,9 +1,16 @@
 # Hi, I’m John Potter 👋
-Welcome to my GitHub! I’m a writer with a portfolio of published articles. Dive into my work on [LinkedIn](https://www.linkedin.com/in/technologywriter2/l)!
+Welcome to my GitHub! I’m a writer with a portfolio of published articles. Dive into my work on [LinkedIn](https://www.linkedin.com/in/technologywriter2/l) or download my resume below!
 
 [![PDF Icon](./icon.png)](file:///Users/johnpotter/Downloads/Resume%202025.pdf)
 
+## Current Projects
+- [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is time-intensive, so on the back burner with the job search
+- [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): SaucerSwap is a DEX on the Hedera Blockchain
+- Learning [Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23),[Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
+
+
 ## Featured Articles
+Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
 
 ### AI / Machine Learning
 - [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/)
