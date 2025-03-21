@@ -18,7 +18,7 @@ Here’s my resume and a quick recommendation video:
 
 
 ## Featured Articles
-Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
+Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
 
 ### AI / Machine Learning
 - [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/), *Revelate*, 2023
