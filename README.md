@@ -7,7 +7,7 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
  
 <div style="display: flex; align-items: center; gap: 60px">
   <a href="./resume.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="135" height="135"></a>
-  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" width="240" height="135"></a>
+  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" height="135"></a>
 </div></div>
 
 *Click the thumbnail to watch the video (opens in a new tab if you right-click).*
