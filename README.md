@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [The Commodification of LLMs](https://docs.google.com/document/d/1eu7KduzGpK_DeEPWAafbzCvxkPbJc146Q1tlz17uHbs/edit?usp=sharing)
 - [How AI is Revolutionizing Data Collaboration](https://revelate.co/blog/how-ai-is-revolutionizing-data-collaboration/#:~:text=Think%20of%20AI%20in%20data,AI%20breaks%20down%20those%20barriers.)
 - [Data for AI: The Fuel that Supercharges Machine Learning](https://revelate.co/blog/data-for-ai-the-fuel-that-supercharges-machine-learning/)
-- [How Generative Adversarial Networks Work to Simulate Facial Aging]https://www.linkedin.com/pulse/how-generative-adversarial-networks-work-simulate-facial-potter/)
+- [How Generative Adversarial Networks Work to Simulate Facial Aging](https://www.linkedin.com/pulse/how-generative-adversarial-networks-work-simulate-facial-potter/)
 
 ### Business Operations
 - [Mastering Inspection Dispatch and Scheduling With Technology](https://www.gocanvas.com/blog/mastering-inspection-dispatch-scheduling-technology)
@@ -28,7 +28,7 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [How Can Value Investors Profit in the Crypto Ecosystem?](https://www.benzinga.com/markets/cryptocurrency/21/09/22864242/how-can-value-investors-profit-in-the-crypto-ecosystem)
 - [Quantum Computing: The Cause of the Next Crypto Crash](https://www.insidequantumtechnology.com/news-archive/quantum-computing-the-cause-of-the-next-crypto-crash/)
 - [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html)
-- [From Scalpels to Qubits: The Story of the World's First Post Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html)
+- [From Scalpels to Qubits: The Story of the World's First Post-Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html)
 - [Memechainds Take Meme Coins to the Next Level](https://www.pressreader.com/uk/crypto-magazine/20230629/282419878686631) 
 
 ### Data Engineering
@@ -69,7 +69,10 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [Zero Trust Security: The New Standard for Robust Cyber Protection](https://docs.google.com/document/d/1q88yiuHj2-vtJudOGhDxCB6nrgycRTKztyt0An301zU/edit?usp=sharing)
 - [Mastering Vulnerability Management: A Guide to CVE and EPSS](https://www.compliancecow.com/compliance/vulnerability-cve-epss/)
 
+### Stock Analysis
+- [Can Digital Ocean Keep Up Its Strong Growth](https://www.tipranks.com/news/can-digitalocean-nasdaqdocn-keep-up-its-high-growth)
+- [Powered by AI, UiPath Is Gaining Strength](https://www.tipranks.com/news/powered-by-ai-uipath-nysepath-is-becoming-stronger)
+- [Snowflake Stock Now Attractive After 30% Tumble](https://www.tipranks.com/news/snowflake-stock-nasdaqsnow-now-attractive-after-tumbling)
+- [Arista Networks Betting On Innovation to Outpace Rivals](https://www.tipranks.com/news/article/arista-networks-nyseanet-betting-on-innovation-to-outpace-rival)
+- [Crowdstrike Stock Skyrocketing ARR, Strategic Alliances Fuel Growth](https://www.tipranks.com/news/crowdstrike-stock-nasdaqcrwd-skyrocketing-arr-strategic-alliances-fuel-growth)
 
-
-
--->
