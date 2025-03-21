@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m John Potter 👋
+Welcome to my GitHub! I’m a writer with a portfolio of published articles. Dive into my work on [LinkedIn](https://www.linkedin.com/in/technologywriter2/l)!
 
-<!--
-**johnpottergr/JohnPotterGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Articles
+### Data Engineering
+- [Maximizing Efficiency: Pairing Code Generators with AI Code Reviewers](https://www.linkedin.com/in/technologywriter2/l)!
+- **Article Title 2** - Exploring [another topic].
 
-Here are some ideas to get you started:
+### Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Software Development
+
+### Markdown
 -->
