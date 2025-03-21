@@ -5,15 +5,26 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 
 ### AI / Machine Learning
 - [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/)
+- [The Commodification of LLMs](https://docs.google.com/document/d/1eu7KduzGpK_DeEPWAafbzCvxkPbJc146Q1tlz17uHbs/edit?usp=sharing)
 - [How AI is Revolutionizing Data Collaboration](https://revelate.co/blog/how-ai-is-revolutionizing-data-collaboration/#:~:text=Think%20of%20AI%20in%20data,AI%20breaks%20down%20those%20barriers.)
+- [Data for AI: The Fuel that Supercharges Machine Learning](https://revelate.co/blog/data-for-ai-the-fuel-that-supercharges-machine-learning/)
+- [How Generative Adversarial Networks Work to Simulate Facial Aging]https://www.linkedin.com/pulse/how-generative-adversarial-networks-work-simulate-facial-potter/)
+
+### Business Operations
+- [Mastering Inspection Dispatch and Scheduling With Technology](https://www.gocanvas.com/blog/mastering-inspection-dispatch-scheduling-technology)
+- [Simplify Inspections: Inspection Reporting Software for Data and Compliance](https://www.gocanvas.com/blog/simplify-inspections-form-templates-data-compliance)
+- [Work Order Apps Advance the Shift to Digital](https://www.gocanvas.com/blog/work-order-apps-advance-shift-to-digital)
+- [How Construction Management Software Is Transforming Jobsite Efficiency](https://www.gocanvas.com/blog/construction-management-software-transforms-jobsite-efficiency)
+- [The Evolution of Work Orders and Maintenance Management](https://www.gocanvas.com/blog/the-evolution-of-work-orders-and-maintenance-management)
   
 ### Coding
 - [Maximizing Efficiency: Pairing Code Generators with AI Code Reviewers](https://www.linkedin.com/in/technologywriter2/l) 
 - [Optimize Issue Management with CodeRabbit](https://www.coderabbit.ai/blog/optimize-issue-management-with-coderabbit)
 - [Top 5 AI Code Generation Tools](https://www.coderabbit.ai/blog/top-5-ai-code-generation-tools)
 - [Static code analyzers vs AI code reviewers: Which is Best?](https://www.coderabbit.ai/blog/static-code-analyzers-vs-ai-code-reviewers-which-is-best)
-
-### Crypto/DeFi
+- [How CodeRabbit Learnigs work](https://docs.google.com/document/d/1Uw0cGjeiALqZ5dYrXxcwiEcwBhgSKC8jMDEH-BN_iz0/edit?usp=sharing)
+  
+### Cryptocurrency
 - [How Can Value Investors Profit in the Crypto Ecosystem?](https://www.benzinga.com/markets/cryptocurrency/21/09/22864242/how-can-value-investors-profit-in-the-crypto-ecosystem)
 - [Quantum Computing: The Cause of the Next Crypto Crash](https://www.insidequantumtechnology.com/news-archive/quantum-computing-the-cause-of-the-next-crypto-crash/)
 - [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html)
@@ -43,10 +54,6 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [The Power of Algorithms in Direct Mail Marketing](https://postie.com/blog/the-power-of-algorithms-in-direct-mail-marketing/)
 - [When Direct Mail Meets Deep Learning A Perfect Match](https://docs.google.com/document/d/1wLrWHzGcxx6GJzSHAKSPl0jH-edcOQcvlXFRQILzieI/edit?usp=sharing)
 
-### Miscellaneous
-- [Mastering Inspection Dispatch and Scheduling With Technology](https://www.gocanvas.com/blog/mastering-inspection-dispatch-scheduling-technology)
-
-
 ### Quantum Computing
 - [Nord Quantique Unveils New Technique for Scalable Qubit Error Correction](https://www.iotworldtoday.com/quantum/nord-quantique-unveils-new-technique-for-scalable-qubit-error-correction)
 - [Researchers Develop Cameras to Visualise Quantum States](https://www.iotworldtoday.com/quantum/researchers-develop-cameras-to-visualise-quantum-states)
@@ -62,8 +69,6 @@ Welcome to my GitHub! I’m a writer with a portfolio of published articles. Div
 - [Zero Trust Security: The New Standard for Robust Cyber Protection](https://docs.google.com/document/d/1q88yiuHj2-vtJudOGhDxCB6nrgycRTKztyt0An301zU/edit?usp=sharing)
 - [Mastering Vulnerability Management: A Guide to CVE and EPSS](https://www.compliancecow.com/compliance/vulnerability-cve-epss/)
 
-
-### Software Development
 
 
 
