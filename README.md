@@ -23,7 +23,7 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
 - [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
 
 ## Documentation Skills
-- Markdown: [Explore my GitHub contributions to Gruntwork.io projects](https://github.com/EdifyContent)
+- Markdown: [Explore my GitHub contributions at Edify](https://github.com/EdifyContent)
 - Software: [Django App](./django.pdf), [NodeJS Deploy Guide](./NodeJS.pdf)
 - API: Coming soon
 - Samples: [Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [Beginner's Guide](./Guide.pdf)
