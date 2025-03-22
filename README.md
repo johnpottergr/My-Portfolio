@@ -22,6 +22,11 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
 - [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): SaucerSwap is a DEX on the Hedera Blockchain
 - [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
 
+## Documentation Skills
+- Markdown: [Explore my GitHub contributions to Gruntwork.io projects](https://github.com/johnpottergrmarkdown), *2025*
+- Software:
+- API: Coming soon
+- Samples: [Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [Beginner's Guide](./Guide.pdf)
 
 ## Featured Articles
 Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
@@ -33,7 +38,6 @@ Compiling this list was a trip down memory lane, revisiting the many different a
 - [Cryptography](https://github.com/johnpottergr#cryptography)
 - [Data Engineering](https://github.com/johnpottergr#data-engineering)
 - [Kubernetes](https://github.com/johnpottergr#kubernetes)
-- [Markdown](https://github.com/johnpottergrmarkdown)
 - [Marketing](https://github.com/johnpottergr#marketing)
 - [Quantum Computing](https://github.com/johnpottergr#quantum-computing)
 - [Securiy](https://github.com/johnpottergr#security)
