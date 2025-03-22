@@ -49,10 +49,15 @@ Compiling this list was a trip down memory lane, revisiting the many different a
   
 ### Cryptocurrency
 - [How Can Value Investors Profit in the Crypto Ecosystem?](https://www.benzinga.com/markets/cryptocurrency/21/09/22864242/how-can-value-investors-profit-in-the-crypto-ecosystem), *Benzinga*, 2021
+- [Memechainds Take Meme Coins to the Next Level](https://www.pressreader.com/uk/crypto-magazine/20230629/282419878686631), *Crypto Magazine*, 2024
+- [Polygon Edge: Providing Blockchain Sovereignty To Dogechain](https://blog.dogechain.dog/2022/08/04/polygon-edge-providing-blockchain-sovereignty-to-dogechain/), *Dogechain*, 2022
+- [The Power of Cross-Chain Bridges](https://blog.dogechain.dog/2022/07/12/the-power-of-cross-chain-bridges/), *Dogechain*, 2022
+
+### Cryptography
 - [Quantum Computing: The Cause of the Next Crypto Crash](https://www.insidequantumtechnology.com/news-archive/quantum-computing-the-cause-of-the-next-crypto-crash/), *Inside Quantum Technology*, 2021
 - [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html),  *Yahoo Finance*, 2021
+- [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html,  *Yahoo Finance*, 2021
 - [From Scalpels to Qubits: The Story of the World's First Post-Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html), *Yahoo Finance*, 2021
-- [Memechainds Take Meme Coins to the Next Level](https://www.pressreader.com/uk/crypto-magazine/20230629/282419878686631), *Crypto Magazine*, 2024 
 
 ### Data Engineering 
 - [What Is The Modern Data Stack?](https://www.fivetran.com/blog/what-is-the-modern-data-stack), *Fivetran*, 2024
