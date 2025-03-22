@@ -72,6 +72,8 @@ Compiling this list was a trip down memory lane, revisiting the many different a
 - [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html),  *Yahoo Finance*, 2021
 - [From Scalpels to Qubits: The Story of the World's First Post-Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html), *Yahoo Finance*, 2021
 - [Making Quantum Security More Accessible](https://medium.com/quantum-resistance-journal/making-quantum-security-accessible-7ddad6869fab), *Self-published*, 2022
+- [See also my *Journal of Quantum Resistance*](https://medium.com/quantum-resistance-journal), *Self-published*,2022
+
 
 ### Data Engineering 
 - [What Is The Modern Data Stack?](https://www.fivetran.com/blog/what-is-the-modern-data-stack), *Fivetran*, 2024
