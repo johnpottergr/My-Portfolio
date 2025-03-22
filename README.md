@@ -26,11 +26,11 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
  
 ## Current Projects
 - [Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): A blog where I analyze trending stocks (currently on hold while I focus on my job search).
-- [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): I write about DeFi for SaucerSwap, a DEX on the Hedera Blockchain.
+- [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): I write about decentralized finance for a DEX on the Hedera Blockchain.
 - [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
 
 ## Documentation Skills
-- Markdown: [Explore my GitHub contributions at Edify:(over 50+ documentation commits)](https://github.com/EdifyContent)
+- Markdown: [Explore my GitHub contributions at Edify](https://github.com/EdifyContent) Over 35+ documentation commits 
 - Software: Authored the [Django App](./django.pdf) and [NodeJS Deploy Guide](./NodeJS.pdf) for an Edify client
 - API: Currently working on API documentation 
 - Samples: [QuickSwap Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [SaucerSwap Beginner's Guide](./Guide.pdf)
