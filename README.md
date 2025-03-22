@@ -56,7 +56,7 @@ Compiling this list was a trip down memory lane, revisiting the many different a
 ### Cryptography
 - [Quantum Computing: The Cause of the Next Crypto Crash](https://www.insidequantumtechnology.com/news-archive/quantum-computing-the-cause-of-the-next-crypto-crash/), *Inside Quantum Technology*, 2021
 - [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html),  *Yahoo Finance*, 2021
-- [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html,  *Yahoo Finance*, 2021
+- [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html),  *Yahoo Finance*, 2021
 - [From Scalpels to Qubits: The Story of the World's First Post-Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html), *Yahoo Finance*, 2021
 
 ### Data Engineering 
