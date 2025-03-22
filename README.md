@@ -11,7 +11,7 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
   <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" height="135"></a>
 </div></div>
 
-*Right-click the thumbnail to view video.*
+*Right-click the thumbnail to view the video.*
 <br>
 
 
@@ -36,7 +36,7 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
 - Samples: [QuickSwap Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [SaucerSwap Beginner's Guide](./Guide.pdf)
 
 ## Featured Articles
-Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
+Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality improved, thanks to guidance from Anthony Garone at Edify Content.
 
 - [AI/Machine Learning](https://github.com/johnpottergr#ai--machine-learning)
 - [Business Operations](https://github.com/johnpottergr#business-operations)
@@ -47,7 +47,7 @@ Compiling this list was a trip down memory lane, revisiting the many different a
 - [Kubernetes](https://github.com/johnpottergr#kubernetes)
 - [Marketing](https://github.com/johnpottergr#marketing)
 - [Quantum Computing](https://github.com/johnpottergr#quantum-computing)
-- [Securiy](https://github.com/johnpottergr#security)
+- [Security](https://github.com/johnpottergr#security)
 - [Stock Analysis](https://github.com/johnpottergr#stock-analysis)
 
 ### AI / Machine Learning
@@ -69,7 +69,7 @@ Compiling this list was a trip down memory lane, revisiting the many different a
 - [Optimize Issue Management with CodeRabbit](https://www.coderabbit.ai/blog/optimize-issue-management-with-coderabbit), *CodeRabbit*, 2024
 - [Top 5 AI Code Generation Tools](https://www.coderabbit.ai/blog/top-5-ai-code-generation-tools), *CodeRabbit*, 2024
 - [Static code analyzers vs AI code reviewers: Which is Best?](https://www.coderabbit.ai/blog/static-code-analyzers-vs-ai-code-reviewers-which-is-best), *CodeRabbit*, 2024
-- [How CodeRabbit Learnigs work](https://docs.google.com/document/d/1Uw0cGjeiALqZ5dYrXxcwiEcwBhgSKC8jMDEH-BN_iz0/edit?usp=sharing), *Unpublished*, 2024
+- [How CodeRabbit Learnings work](https://docs.google.com/document/d/1Uw0cGjeiALqZ5dYrXxcwiEcwBhgSKC8jMDEH-BN_iz0/edit?usp=sharing), *Unpublished*, 2024
   
 ### Cryptocurrency
 - [How Can Value Investors Profit in the Crypto Ecosystem?](https://www.benzinga.com/markets/cryptocurrency/21/09/22864242/how-can-value-investors-profit-in-the-crypto-ecosystem), *Benzinga*, 2021
@@ -81,7 +81,7 @@ Compiling this list was a trip down memory lane, revisiting the many different a
 - [Quantum Computing: The Cause of the Next Crypto Crash](https://www.insidequantumtechnology.com/news-archive/quantum-computing-the-cause-of-the-next-crypto-crash/), *Inside Quantum Technology*, 2021
 - [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html),  *Yahoo Finance*, 2021
 - [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html),  *Yahoo Finance*, 2021
-- [From Scalpels to Qubits: The Story of the World's First Post-Quantum Block Chain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html), *Yahoo Finance*, 2021
+- [From Scalpels to Qubits: The Story of the World's First Post-Quantum Blockchain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html), *Yahoo Finance*, 2021
 - [Making Quantum Security More Accessible](https://medium.com/quantum-resistance-journal/making-quantum-security-accessible-7ddad6869fab), *Self-published*, 2022
 - [The Moving Target Defense at Storage Level](https://medium.com/quantum-resistance-journal/the-moving-target-defense-storage-level-90f2dc09d3ac), *Self-published*,2022
 
