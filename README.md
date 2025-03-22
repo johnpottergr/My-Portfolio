@@ -1,32 +1,39 @@
-# Hi, I’m John Potter 🛠️ 
-Welcome to my GitHub! I’m a writer with a portfolio of published articles. Dive into my work on [LinkedIn](https://www.linkedin.com/in/technologywriter2/l)
+# Hi, I’m John Potter—a writer and tech enthusiast
+
+Welcome to my GitHub! I’m a writer who loves diving into fintech, blockchain, and more—check out my portfolio of published articles.
 
 ## My Work
 
-After two years at Edify Content, I’m wrapping up my role and looking for new work—here’s my resume and a short recommendation video:
+After two years at Edify Content, I’m wrapping up my role and looking for new work. Download my resume (PDF) and view a short recommendation video:
  
 <div style="display: flex; align-items: center; gap: 60px">
   <a href="./resume3.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="135" height="135"></a>
   <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" height="135"></a>
 </div></div>
 
-*Click the thumbnail to watch the video (opens in a new tab if you right-click).*
+*Right-click the thumbnail to view video.*
 <br>
 
 
  
-- [My Rate Card](./rate.pdf)
+- [My Rate Card: Writing and Consulting Fees](./rate.pdf)
+
+## Achievements  
+- Published 150+ articles at Edify for a range of technical audiences
+- Highly versatile, I've written on data engineering, quantum computing, blockchain technology, ai/machine learning, and more
+- Grew a LinkedIn community of 1,800+ followers by publishing original tech-focused newsletter content
+- Over 7+ years of technical content creation
  
 ## Current Projects
-- [My blog: Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): This is a time-intensive project, so it’s on hold while I focus on the job search.
-- [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): SaucerSwap is a DEX on the Hedera Blockchain
+- [Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): [A blog](https://johnpottergr.substack.com/) where I analyze trending stocks (currently on hold while I focus on my job search).
+- [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): I write about decentralized finance (DeFi) for SaucerSwap, a DEX on the Hedera Blockchain.
 - [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
 
 ## Documentation Skills
-- Markdown: [Explore my GitHub contributions at Edify](https://github.com/EdifyContent)
-- Software: [Django App](./django.pdf), [NodeJS Deploy Guide](./NodeJS.pdf)
-- API: Coming soon
-- Samples: [Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [Beginner's Guide](./Guide.pdf)
+- Markdown: [Explore my GitHub contributions at Edify:(over 50+ documentation commits)](https://github.com/EdifyContent)
+- Software: Authored the [Django App](./django.pdf) and [NodeJS Deploy Guide](./NodeJS.pdf) for an Edify client
+- API: Currently working on API documentation 
+- Samples: [QuickSwap Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [SaucerSwap Beginner's Guide](./Guide.pdf)
 
 ## Featured Articles
 Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
