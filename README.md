@@ -1,6 +1,6 @@
-# Hi, I’m John Potter—a writer and tech enthusiast
+# Hi, I’m John Potter—writer and tech enthusiast
 
-Welcome to my GitHub! I’m a writer who loves diving into fintech, blockchain, and more—check out my portfolio of published articles.
+Welcome to my GitHub! I’m a writer who loves diving into fintech, blockchain, and more—check out my portfolio of [published articles](https://github.com/johnpottergr#featured-articles).
 
 ## My Work
 
