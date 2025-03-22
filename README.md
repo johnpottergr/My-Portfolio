@@ -26,18 +26,18 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
 ## Featured Articles
 Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality’s improved, thanks to guidance from Anthony Garone at Edify Content.
 
-- [AI/Machine Learning](https://github.com/johnpottergr/JohnPotterGR/main/README.md#ai--machine-learning)
-- [Business Operations](https://github.com/johnpottergr/JohnPotterGR/main/README.md#business-operations)
-- [Coding](https://github.com/johnpottergr/JohnPotterGR/main/README.md#coding)
-- [Cryptocurrency](https://github.com/johnpottergr/JohnPotterGR/main/README.md#cryptocurrency)
-- [Cryptography](https://github.com/johnpottergr/JohnPotterGR/main/README.md#cryptography)
-- [Data Engineering](https://github.com/johnpottergr/JohnPotterGR/main/README.md#data-engineering)
-- [Kubernetes](https://github.com/johnpottergr/JohnPotterGR/main/README.md#kubernetes)
-- [Markdown](https://github.com/johnpottergr/JohnPotterGR/main/README.md#markdown)
-- [Marketing](https://github.com/johnpottergr/JohnPotterGR/main/README.md#marketing)
-- [Quantum Computing](https://github.com/johnpottergr/JohnPotterGR/main/README.md#quantum-computing)
-- [Securiy](https://github.com/johnpottergr/JohnPotterGR/main/README.md#security)
-- [Stock Analysis](https://github.com/johnpottergr/JohnPotterGR/main/README.md#stock-analysis)
+- [AI/Machine Learning](https://github.com/johnpottergr#ai--machine-learning)
+- [Business Operations](https://github.com/johnpottergr#business-operations)
+- [Coding](https://github.com/johnpottergr#coding)
+- [Cryptocurrency](https://github.com/johnpottergr#cryptocurrency)
+- [Cryptography](https://github.com/johnpottergr#cryptography)
+- [Data Engineering](https://github.com/johnpottergr#data-engineering)
+- [Kubernetes](https://github.com/johnpottergr#kubernetes)
+- [Markdown](https://github.com/johnpottergrmarkdown)
+- [Marketing](https://github.com/johnpottergr#marketing)
+- [Quantum Computing](https://github.com/johnpottergr#quantum-computing)
+- [Securiy](https://github.com/johnpottergr#security)
+- [Stock Analysis](https://github.com/johnpottergr#stock-analysis)
 
 ### AI / Machine Learning
 - [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/), *Revelate*, 2023
