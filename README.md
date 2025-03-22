@@ -25,7 +25,7 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
 - Over 7+ years of technical content creation
  
 ## Current Projects
-- [Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): A blog where I analyze trending stocks (currently on hold while I focus on my job search).
+- [Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): A blog where I analyze trending stocks (currently on hold while I focus on my job search.
 - [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): I write about decentralized finance for a DEX on the Hedera Blockchain.
 - [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
 
