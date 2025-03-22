@@ -24,7 +24,7 @@ After two years at Edify Content, I’m wrapping up my role and looking for new 
 
 ## Documentation Skills
 - Markdown: [Explore my GitHub contributions to Gruntwork.io projects](https://github.com/EdifyContent)
-- Software:[Django App](./django.pdf)
+- Software: [Django App](./django.pdf)
 - API: Coming soon
 - Samples: [Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [Beginner's Guide](./Guide.pdf)
 
