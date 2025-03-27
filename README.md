@@ -1,41 +1,5 @@
-# Hi, I’m John Potter—writer and tech enthusiast <img src="./pen.png" >
+# My Portfolio <img src="./pen.png" >
 
-Welcome to my GitHub! I’m a writer who loves diving into fintech, blockchain, and more—check out my portfolio of [published articles](https://github.com/johnpottergr#featured-articles).
-
-## My Work
-
-After two years at Edify Content, I’m wrapping up my role and looking for new work. Download my resume (PDF) and view a short recommendation video:
- 
-<div style="display: flex; align-items: center; gap: 60px">
-  <a href="./resume3.pdf"><img src="./vecteezy_26126505.jpg" alt="PDF Icon" width="135" height="135"></a>
-  <a href="https://www.youtube.com/watch?v=7DYhiD3IuxE"><img src="https://img.youtube.com/vi/7DYhiD3IuxE/0.jpg" alt="YouTube Video" height="135"></a>
-</div></div>
-
-*Right-click the thumbnail to view the video.*
-<br>
-
-
- 
-- [My Rate Card: Writing and Consulting Fees](./rate.pdf)
-
-## Achievements  
-- Published 150+ articles at Edify for a range of technical audiences
-- Highly versatile, I've written on data engineering, quantum computing, blockchain technology, ai/machine learning, and more
-- Grew a LinkedIn community of 1,800+ followers by publishing original tech-focused newsletter content
-- Over 7+ years of technical content creation
- 
-## Current Projects
-- [Fintech Pulse: Stocks to Watch](https://johnpottergr.substack.com/): A blog where I analyze trending stocks (currently on hold while I focus on my job search
-- [Weekly guest blogger for SaucerSwap Labs ](https://medium.com/@SaucerSwap): I write about decentralized finance for a DEX on the Hedera Blockchain
-- [Learning Sharepoint](https://support.microsoft.com/en-us/office/sharepoint-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23), [Tableau](https://www.tableau.com/learn/training), and [PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi): Great resources!
-
-## Documentation Skills
-- Markdown: [Explore my GitHub contributions at Edify](https://github.com/EdifyContent). Over 35+ documentation commits 
-- Software: Authored the [Django App](./django.pdf) and [NodeJS Deploy Guide](./NodeJS.pdf) for an Edify client
-- API: Currently working on API documentation 
-- Samples: [QuickSwap Release Notes](./Release.pdf), [Program Proposal](./Proposal.pdf), [SaucerSwap Beginner's Guide](./Guide.pdf)
-
-## Featured Articles
 Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality improved, thanks to guidance from Anthony Garone at Edify Content.
 
 - [AI/Machine Learning](https://github.com/johnpottergr#ai--machine-learning)
