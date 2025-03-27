@@ -3,16 +3,16 @@
 Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality improved, thanks to guidance from Anthony Garone at Edify Content.
 
 - [AI/Machine Learning](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#ai--machine-learning)
-- [Business Operations](https://github.com/johnpottergr#business-operations)
-- [Coding](https://github.com/johnpottergr#coding)
-- [Cryptocurrency](https://github.com/johnpottergr#cryptocurrency)
-- [Cryptography](https://github.com/johnpottergr#cryptography)
-- [Data Engineering](https://github.com/johnpottergr#data-engineering)
-- [Kubernetes](https://github.com/johnpottergr#kubernetes)
-- [Marketing](https://github.com/johnpottergr#marketing)
-- [Quantum Computing](https://github.com/johnpottergr#quantum-computing)
-- [Security](https://github.com/johnpottergr#security)
-- [Stock Analysis](https://github.com/johnpottergr#stock-analysis)
+- [Business Operations](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#business-operations)
+- [Coding](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#coding)
+- [Cryptocurrency](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#cryptocurrency)
+- [Cryptography](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#cryptography)
+- [Data Engineering](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#data-engineering)
+- [Kubernetes](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#kubernetes)
+- [Marketing](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#marketing)
+- [Quantum Computing](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#quantum-computing)
+- [Security](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#security)
+- [Stock Analysis](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#stock-analysis)
 
 ### AI / Machine Learning
 - [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/), *Revelate*, 2023
