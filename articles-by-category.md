@@ -2,7 +2,7 @@
 
 Compiling this list was a trip down memory lane, revisiting the many different articles I’ve written. Most dive into data engineering, quantum computing breakthroughs, or cryptocurrency trends. But it's far from comprehensive. Over time, the quality improved, thanks to guidance from Anthony Garone at Edify Content.
 
-- [AI/Machine Learning](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category#ai--machine-learning)
+- [AI/Machine Learning](https://github.com/johnpottergr/My-Portfolio/blob/main/articles-by-category.md#ai--machine-learning)
 - [Business Operations](https://github.com/johnpottergr#business-operations)
 - [Coding](https://github.com/johnpottergr#coding)
 - [Cryptocurrency](https://github.com/johnpottergr#cryptocurrency)
