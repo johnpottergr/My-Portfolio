@@ -24,23 +24,23 @@ Alternatively, SaucerSwap offers a Coinbase Onramp, allowing you to buy and tran
 - **Verify Connection:** Once connected, you’ll see your wallet’s HBAR balance displayed on the SaucerSwap interface.
 
 ## Step 3: Start Swapping Tokens
-- Navigate to Swap: On the homepage, find the “Swap” section (it’s front and center!).
-- Choose Tokens: Select the token you want to swap from (e.g., HBAR) and the token you want to receive (e.g., SAUCE or USDC). If you don’t see a token, you may need to add it manually using its token ID (available on Hedera explorers like HashScan).
-- Enter Amount: Input how much you want to swap. SaucerSwap will calculate the amount you’ll receive, factoring in a small fee (denominated in USD, paid in HBAR).
-- Adjust Slippage (Optional): Click the gear icon to tweak slippage tolerance (e.g., 0.5%) if you’re worried about price changes during the transaction—it’s the max price shift you’ll accept to protect against losses from market moves. For volatile tokens, bump it to 1–3%.” Adds practical advice without jargon overload.
-- Swap It: Click “Swap,” review the details, and confirm the transaction in your wallet. In seconds, your new tokens will appear!
+- **Navigate to Swap:** On the homepage, find the “Swap” section (it’s front and center!).
+- **Choose Tokens:** Select the token you want to swap from (e.g., HBAR) and the token you want to receive (e.g., SAUCE or USDC). If you don’t see a token, you may need to add it manually using its token ID (available on Hedera explorers like HashScan).
+- **Enter Amount:** Input how much you want to swap. SaucerSwap will calculate the amount you’ll receive, factoring in a small fee (denominated in USD, paid in HBAR).
+- **Adjust Slippage (Optional):** Click the gear icon to tweak slippage tolerance (e.g., 0.5%) if you’re worried about price changes during the transaction—it’s the max price shift you’ll accept to protect against losses from market moves. For volatile tokens, bump it to 1–3%.” Adds practical advice without jargon overload.
+- **Swap It:** Click “Swap,” review the details, and confirm the transaction in your wallet. In seconds, your new tokens will appear!
 
 ## Step 4: Explore More Features
-- Add Liquidity: If you want to earn fees, go to the “Liquidity” tab, pick a token pair (e.g., HBAR/USDC), and supply equal values of both tokens to a pool. You’ll get LP tokens representing your share—think of them as a receipt. These earn a cut of trading fees (check the pool’s APR on the site), which you can claim later by removing liquidity.
+- **Add Liquidity:** If you want to earn fees, go to the “Liquidity” tab, pick a token pair (e.g., HBAR/USDC), and supply equal values of both tokens to a pool. You’ll get LP tokens representing your share—think of them as a receipt. These earn a cut of trading fees (check the pool’s APR on the site), which you can claim later by removing liquidity.
 
-- Stake SAUCE: If you own SAUCE tokens, you can stake them to earn rewards. Head to the “Stake” section, deposit them into the Infinity Pool, and earn xSAUCE, which grows in value over time as a reward.
+- **Stake SAUCE:** If you own SAUCE tokens, you can stake them to earn rewards. Head to the “Stake” section, deposit them into the Infinity Pool, and earn xSAUCE, which grows in value over time as a reward.
 - 
-Check Your Progress: Use Hedera explorers like [https://hashscan.io/](https://hashscan.io/) to track your transactions and balances.
+**Check Your Progress:** Use Hedera explorers like [https://hashscan.io/](https://hashscan.io/) to track your transactions and balances.
 
 ## Tips for Beginners
-- Start Small: Test with a small amount of HBAR or tokens to get comfortable.
-- Watch Fees: SaucerSwap fees are low and in USD (paid in HBAR), but ensure you have enough HBAR for transactions.
-- Stay Safe: Never share your seed phrase or private keys. SaucerSwap is self-custody, meaning you control your assets—no one else.
+- **Start Small:** Test with a small amount of HBAR or tokens to get comfortable.
+- **Watch Fees:** SaucerSwap fees are low and in USD (paid in HBAR), but ensure you have enough HBAR for transactions.
+- **Stay Safe:** Never share your seed phrase or private keys. SaucerSwap is self-custody, meaning you control your assets—no one else.
 
 ## Troubleshooting
 - Stuck? If a swap fails, check your HBAR balance for fees (a few cents usually does it).
@@ -52,7 +52,7 @@ Check Your Progress: Use Hedera explorers like [https://hashscan.io/](https://ha
 
 ## Need Help?
 Join the SaucerSwap community for support:
-- Discord: [https://discord.com/invite/saucerswap](https://discord.com/invite/saucerswap)
-- Twitter: [https://X.com/SaucerSwapLabs](https://X.com/SaucerSwapLabs)
-- Docs: [https://docs.saucerswap.finance](https://docs.saucerswap.finance)
+- **Discord:** [https://discord.com/invite/saucerswap](https://discord.com/invite/saucerswap)
+- **Twitter:** [https://X.com/SaucerSwapLabs](https://X.com/SaucerSwapLabs)
+- **Docs:** [https://docs.saucerswap.finance](https://docs.saucerswap.finance)
 
