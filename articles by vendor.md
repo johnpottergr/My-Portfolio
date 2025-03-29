@@ -225,7 +225,9 @@
 - [Crowdstrike Stock Skyrocketing ARR, Strategic Alliances Fuel Growth](https://www.tipranks.com/news/crowdstrike-stock-nasdaqcrwd-skyrocketing-arr-strategic-alliances-fuel-growth)
 - [Super Micro Computer Stock: Massive Growth Makes It Undervalued](https://www.tipranks.com/news/super-micro-computer-stock-nasdaqsmci-massive-growth-makes-it-undervalued)
 - [Iron Mountain Stock (NYSE:IRM): For Investors Seeking Value and Income](https://www.tipranks.com/news/iron-mountain-stock-nyseirm-for-investors-seeking-value-and-income)
-- 
+- [ServiceNow Stock: Why the High Valuation Is Worth It](https://www.tipranks.com/news/servicenow-stock-nysenow-why-the-high-valuation-is-worth-it)
+- [Eli Lilly Stock (NYSE:LLY): Bullish on Innovation and Pharmaceutical Success](https://www.tipranks.com/news/eli-lilly-stock-nyselly-bullish-on-innovation-and-pharmaceutical-success)
+- [Snap Stock (NYSE:SNAP): Growth Trajectory Is Mixed after Recent Setbacks](https://www.tipranks.com/news/snap-stock-nysesnap-growth-trajectory-is-mixed-after-recent-setbacks)
 
 ## Yahoo Finance (2021)
 - [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html)
