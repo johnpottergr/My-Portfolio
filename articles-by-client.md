@@ -1,4 +1,4 @@
-# Artcle Portfolio by Client
+# Article Portfolio by Client
 
 - [CodeRabbit](#coderabbit-2024)
 - [ComplianceCow](#compliancecow-2023-24)
