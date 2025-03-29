@@ -123,12 +123,11 @@
 - [What is data governance?](https://www.fivetran.com/learn/data-governance)
 - [Top 7 data analytics tools of 2024](https://www.fivetran.com/learn/data-analytics-tools-2024)
 
-
 ### Sharing Data Across Teams and Partners
-- [5 epic fails prevented by data collaboration](https://revelate.co/blog/5-epic-fails-prevented-by-data-collaboration/	)
-- [Enhancing Data Exchange with Data Provisioning Processes](https://revelate.co/blog/data-provisioning-the-future-of-efficient-exchanges/	)
-- [Data Provisioning vs ETL: What’s the Difference?](https://revelate.co/blog/data-provisioning-vs-etl/	)
-- [Data Sharing Made Easy with Delta Sharing](https://revelate.co/blog/data-sharing-made-easy-with-delta-sharing/	)
+- [5 epic fails prevented by data collaboration](https://revelate.co/blog/5-epic-fails-prevented-by-data-collaboration/)
+- [Enhancing Data Exchange with Data Provisioning Processes](https://revelate.co/blog/data-provisioning-the-future-of-efficient-exchanges/)
+- [Data Provisioning vs ETL: What’s the Difference?](https://revelate.co/blog/data-provisioning-vs-etl/)
+- [Data Sharing Made Easy with Delta Sharing](https://revelate.co/blog/data-sharing-made-easy-with-delta-sharing/)
 - [What’s the Difference Between a Data Exchange and a Data Marketplace?](https://revelate.co/blog/difference-between-a-data-exchange-and-a-data-marketplace/)
 - [Exploring Data Request Automation in Advanced Data Exchanges](https://revelate.co/blog/exploring-data-request-automation-in-advanced-data-exchanges/)
 - [External and Internal Data Differences in the Data Marketplace](https://revelate.co/blog/external-and-internal-data-differences-in-the-data-marketplace/	)
