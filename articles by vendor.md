@@ -1,5 +1,19 @@
 # Artcle Portfolio by Client
 
+- [CodeRabbit](#coderabbit-2024)
+- [ComplianceCow](#compliancecow-2023-24)
+- [CryptoMagazine](#cryptomagazine-2022)
+- [Datafold](#datafold-2023-24)
+- [Dogechain](#dogechain-2022)
+- [Fivetran](#fivetran-2024)
+- [GoCanvas](#gocanvas-2023)
+- [Postie](#postie-2023-24)
+- [Quantum Insider](#coderabbit-2024)
+- [Revelate](#revelate-2023)
+- [TipRanks](#tipranks-2024)
+- [Yahoo Finance](#yahoo-finance-2021)
+- [Enter Qauntum](#enter-quantum-2023-24)
+
 ## CodeRabbit (2024)
 - [Maximizing Efficiency: Pairing Code Generators with AI Code Reviewers](https://www.coderabbit.ai/blog/maximizing-efficiency-pairing-code-generators-with-ai-code-reviewers)
 - [Optimize Issue Management with CodeRabbit](https://www.coderabbit.ai/blog/optimize-issue-management-with-coderabbit)
@@ -17,7 +31,7 @@
 - [The 8 Rights of the CCPA: What are they?](https://www.compliancecow.com/compliance/the-8-rights-of-the-ccpa-what-are-they/)
 - [Understanding the 7 Core Principles of GDPR](https://www.compliancecow.com/compliance/understanding-the-7-core-principles-of-gdpr/)
 
-## CryptoMagaine (2022)
+## CryptoMagazine (2022)
 - coming soon
 
 ## Datafold (2023-24)
