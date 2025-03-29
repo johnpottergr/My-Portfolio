@@ -131,7 +131,6 @@
 - [What’s the Difference Between a Data Exchange and a Data Marketplace?](https://revelate.co/blog/difference-between-a-data-exchange-and-a-data-marketplace/)
 - [Exploring Data Request Automation in Advanced Data Exchanges](https://revelate.co/blog/exploring-data-request-automation-in-advanced-data-exchanges/)
 - [External and Internal Data Differences in the Data Marketplace](https://revelate.co/blog/external-and-internal-data-differences-in-the-data-marketplace/	)
-
 - [How Data Marketplaces Shape Modern Data Products](https://revelate.co/blog/how-self-service-business-intelligence-is-quietly-revolutionizing-industries/)
 - [How Data Marketplaces Optimize the Data Request Process](https://revelate.co/blog/optimizing-data-requests-in-data-marketplaces/)
 - [Snowflake’s Data Exchange: Transforming Data Collaboration](https://revelate.co/blog/snowflakes-data-exchange/)
