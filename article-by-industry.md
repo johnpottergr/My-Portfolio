@@ -1,25 +1,41 @@
 # Artcle Portfolio by Industry
 
-- [AI/Machine Learning](#coderabbit-2024)
+- [AI and Machine Learning](#ai-and-machine-learning)
 - [Blockchain](#blockchain)
 - [Business Operations](#business-operations)
 - [Business Compliance](#business-compliance)
-- [Coding](#coding)
+- [Cryptography](#cryptography)
 - [Data Engineering](#data-engineering)
 - [Kubernetes](#kubernetes)
 - [Marketing](#marketing)
+- [Stock Analysis](#stock-analysis)
 - [Quantum Computing](#quantum-computing)
-- [Security](#security)
-- [Stock Analysis](#stock-analysis0 
 
-## Coding
+## AI and Machine Learning 
 - [Maximizing Efficiency: Pairing Code Generators with AI Code Reviewers](https://www.coderabbit.ai/blog/maximizing-efficiency-pairing-code-generators-with-ai-code-reviewers)
 - [Optimize Issue Management with CodeRabbit](https://www.coderabbit.ai/blog/optimize-issue-management-with-coderabbit)
 - [Top 5 AI Code Generation Tools](https://www.coderabbit.ai/blog/top-5-ai-code-generation-tools)
 - [Static code analyzers vs AI code reviewers: Which is Best?](https://www.coderabbit.ai/blog/static-code-analyzers-vs-ai-code-reviewers-which-is-best)
+- [When Direct Mail Meets Deep Learning A Perfect Match](https://docs.google.com/document/d/1wLrWHzGcxx6GJzSHAKSPl0jH-edcOQcvlXFRQILzieI/edit?usp=sharing)
+- [Why the Future of Direct Mail Marketing is Machine Learning](https://postie.com/blog/why-the-future-of-direct-mail-marketing-is-machine-learning/) 
+- [Data for AI: The Fuel that Supercharges Machine Learning](https://revelate.co/blog/data-for-ai-the-fuel-that-supercharges-machine-learning/	)
+- [Optimizing Data Pipelines for AI Applications](https://revelate.co/blog/optimizing-data-pipelines-for-ai-applications/)
+- [Don’t Let Bad Data Could Ruin Your AI Dreams](https://revelate.co/blog/how-bad-data-can-derail-your-ai-projects/	)
+- [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/)
+- [QCI, Millionways Partner on Quantum Computing for Machine Learning](https://www.iotworldtoday.com/industry/qci-millionways-partner-on-quantum-computing-for-machine-learning)
+- [Quantum Machine Learning Powers Medical Diagnostics](https://www.iotworldtoday.com/health-care/quantum-machine-learning-powers-medical-diagnostics)
+- [Quantum Computing and AI Combine for Drug Discovery](https://www.iotworldtoday.com/health-care/quantum-computing-and-ai-combined-for-drug-discovery)
+- [How AI is Revolutionizing Data Collaboration](https://revelate.co/blog/how-ai-is-revolutionizing-data-collaboration/	)
 
+## Blockchain
+- [Polygon Edge: Providing Blockchain Sovereignty To Dogechain](https://blog.dogechain.dog/2022/08/04/polygon-edge-providing-blockchain-sovereignty-to-dogechain/)
+- [The Power of Cross-Chain Bridges](https://blog.dogechain.dog/2022/07/12/the-power-of-cross-chain-bridges/)
+- [How Can Value Investors Profit in the Crypto Ecosystem](https://www.benzinga.com/markets/cryptocurrency/21/09/22864242/how-can-value-investors-profit-in-the-crypto-ecosystem)
+- [Memechainds Take Meme Coins to the Next Level](https://www.pressreader.com/uk/crypto-magazine/20230629/282419878686631)
+- Digging up more from CryptoMagazine from 2021
+- More self-published at [DeFi Currents](https://medium.com/crypto-security-top)
+ 
 ## Business Compliance
-- [Kubernetes Compliance with ISO 27001: A Strategic Imperative](https://www.compliancecow.com/compliance/kubernetes-compliance-with-iso-27001-a-strategic-imperative/)
 - [Mastering Security Assurance through Hardening, Testing, and Vulnerability Management](https://www.compliancecow.com/compliance/security-assurance/)
 - [Revolutionizing Security Audits: Streamlining Evidence Collection for Efficiency and Cost-Effectiveness](https://www.compliancecow.com/compliance/security-audit/)
 - [Navigating CMMC Certification: A Guide for DoD Contractors](https://www.compliancecow.com/compliance/navigating-cmmc-certification-a-guide-for-dod-contractors)
@@ -29,7 +45,20 @@
 - [The 8 Rights of the CCPA: What are they?](https://www.compliancecow.com/compliance/the-8-rights-of-the-ccpa-what-are-they/)
 - [Understanding the 7 Core Principles of GDPR](https://www.compliancecow.com/compliance/understanding-the-7-core-principles-of-gdpr/)
 
-## Datafold (2023-24)
+## Business Operations
+- [Mastering Inspection Dispatch and Scheduling With Technology](https://www.gocanvas.com/blog/mastering-inspection-dispatch-scheduling-technology)
+- [Simplify Inspections: Inspection Reporting Software for Data and Compliance](https://www.gocanvas.com/blog/simplify-inspections-form-templates-data-compliance)
+- [Work Order Apps Advance the Shift to Digital](https://www.gocanvas.com/blog/work-order-apps-advance-shift-to-digital)
+- [How Construction Management Software Is Transforming Jobsite Efficiency](https://www.gocanvas.com/blog/construction-management-software-transforms-jobsite-efficiency)
+- [The Evolution of Work Orders and Maintenance Management](https://www.gocanvas.com/blog/the-evolution-of-work-orders-and-maintenance-management)
+
+## Cryptography
+- [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html)
+- [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html)
+- [From Scalpels to Qubits: The Story of the World's First Post-Quantum Blockchain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html)
+- More self-published at [The Journal of Quantum Resistance](https://medium.com/quantum-resistance-journal)
+
+## Data Engineering
 ### Data Migration and Modernization
 - [SQL Server Migration Made Easy](https://www.datafold.com/blog/simplify-sql-server-database-migration)
 - [Replicating MongoDB to BigQuery: A practical guide](https://www.datafold.com/blog/mongodb-to-bigquery-data-replication)
@@ -43,36 +72,6 @@
 - [Building a data warehouse migration strategy for seamless cloud transitions](https://www.datafold.com/blog/data-warehouse-migration-strategy)
 - [Data migration risks and how to avoid them](https://www.datafold.com/blog/common-data-migration-risks)
 - [Replicating Postgres to Redshift: A practical guide](https://www.datafold.com/blog/postgres-to-redshift-data-replication)
-
-### Improving Data Quality and Making Transformations Easier
-- [Optimize ETL Processes with dbt](https://www.datafold.com/blog/optimize-etl-processes-with-dbt)
-- [Using the dbt semantic layer to easily build semantic models](https://www.datafold.com/blog/dbt-semantic-layer)
-- [dbt seeds What are they and how to use them](https://www.datafold.com/blog/dbt-seeds)
-- [Crafting a data quality scorecard](https://www.datafold.com/blog/crafting-a-data-quality-scorecard)
-- [Data quality moat, this is your guide](https://www.datafold.com/data-quality-guide/data-quality-monitoring)
-- [What is a data caralog?](https://www.datafold.com/blog/what-is-a-data-catalog)
-- [What is data validation?](https://www.datafold.com/blog/what-is-data-validation)
-- [Data quality checks: Why you need them](https://www.datafold.com/blog/data-quality-checks)
-- [Data warehouse modernization starts with automated validation](https://www.datafold.com/blog/data-warehouse-modernization)
-
-## DogeChain (2022)
-- [Polygon Edge: Providing Blockchain Sovereignty To Dogechain](https://blog.dogechain.dog/2022/08/04/polygon-edge-providing-blockchain-sovereignty-to-dogechain/)
-- [The Power of Cross-Chain Bridges](https://blog.dogechain.dog/2022/07/12/the-power-of-cross-chain-bridges/)
-
-## Fivetran (2024)
-### Understanding Databases and How We Store Data
-- [PostgreSQL vs. MySQL: What you need to know](https://www.fivetran.com/blog/postgresql-vs-mysql)
-- [What is a database? Definition, types & examples](https://www.fivetran.com/blog/what-is-a-database)
-- [Star schema vs. Snowflake: Choose the right fit](https://www.fivetran.com/learn/star-schema-vs-snowflake)
-- [Data marts: 2025 Guide](https://www.fivetran.com/learn/data-mart)
-- [A deep dive into data lakes](https://www.fivetran.com/blog/a-deep-dive-into-data-lakes)
-- [What Is The Modern Data Stack?](https://www.fivetran.com/blog/what-is-the-modern-data-stack)
-- [Data lakes vs databases: Key differences explained](https://www.fivetran.com/blog/a-deep-dive-into-data-lakes)
-- [The top 7 data lake tools of 2024](https://www.fivetran.com/learn/data-lake-tools)
-- [What is a data lake?](https://www.fivetran.com/blog/what-is-a-data-lake)
-- [Database replication: Definition, types, and setup](https://www.fivetran.com/learn/database-replication)
-
-  ### Moving and Connecting Your Data
 - [Top 8 CDC tools of 2024](https://www.fivetran.com/learn/cdc-tools-2024)
 - [How to load data from SQL Server to Snowflake](https://www.fivetran.com/learn/sql-server-to-snowflake)
 - [Amazon S3 to Snowflake: A definitive guid](https://www.fivetran.com/learn/s3-to-snowflake)
@@ -89,6 +88,29 @@
 - [Best 7 ETL tools of 2024](https://www.fivetran.com/learn/etl-tools-2024)
 - [A Modern Data Migration Framework for AI-Powered Success](https://www.datafold.com/blog/modern-data-migration-framework)
 
+### Improving Data Quality and Making Transformations Easier
+- [Optimize ETL Processes with dbt](https://www.datafold.com/blog/optimize-etl-processes-with-dbt)
+- [Using the dbt semantic layer to easily build semantic models](https://www.datafold.com/blog/dbt-semantic-layer)
+- [dbt seeds What are they and how to use them](https://www.datafold.com/blog/dbt-seeds)
+- [Crafting a data quality scorecard](https://www.datafold.com/blog/crafting-a-data-quality-scorecard)
+- [Data quality moat, this is your guide](https://www.datafold.com/data-quality-guide/data-quality-monitoring)
+- [What is a data caralog?](https://www.datafold.com/blog/what-is-a-data-catalog)
+- [What is data validation?](https://www.datafold.com/blog/what-is-data-validation)
+- [Data quality checks: Why you need them](https://www.datafold.com/blog/data-quality-checks)
+- [Data warehouse modernization starts with automated validation](https://www.datafold.com/blog/data-warehouse-modernization)
+
+### Understanding Databases and How We Store Data
+- [PostgreSQL vs. MySQL: What you need to know](https://www.fivetran.com/blog/postgresql-vs-mysql)
+- [What is a database? Definition, types & examples](https://www.fivetran.com/blog/what-is-a-database)
+- [Star schema vs. Snowflake: Choose the right fit](https://www.fivetran.com/learn/star-schema-vs-snowflake)
+- [Data marts: 2025 Guide](https://www.fivetran.com/learn/data-mart)
+- [A deep dive into data lakes](https://www.fivetran.com/blog/a-deep-dive-into-data-lakes)
+- [What Is The Modern Data Stack?](https://www.fivetran.com/blog/what-is-the-modern-data-stack)
+- [Data lakes vs databases: Key differences explained](https://www.fivetran.com/blog/a-deep-dive-into-data-lakes)
+- [The top 7 data lake tools of 2024](https://www.fivetran.com/learn/data-lake-tools)
+- [What is a data lake?](https://www.fivetran.com/blog/what-is-a-data-lake)
+- [Database replication: Definition, types, and setup](https://www.fivetran.com/learn/database-replication)
+
 ### Making Data Usable and Actionable
 - [Digital marketing analytics: An introduction](https://www.fivetran.com/blog/intro-to-marketing-analytics)
 - [What is data transformation?: A quick overview](https://www.fivetran.com/learn/data-transformation)
@@ -101,14 +123,56 @@
 - [What is data governance?](https://www.fivetran.com/learn/data-governance)
 - [Top 7 data analytics tools of 2024](https://www.fivetran.com/learn/data-analytics-tools-2024)
 
-## GoCanvas (2023)
-- [Mastering Inspection Dispatch and Scheduling With Technology](https://www.gocanvas.com/blog/mastering-inspection-dispatch-scheduling-technology)
-- [Simplify Inspections: Inspection Reporting Software for Data and Compliance](https://www.gocanvas.com/blog/simplify-inspections-form-templates-data-compliance)
-- [Work Order Apps Advance the Shift to Digital](https://www.gocanvas.com/blog/work-order-apps-advance-shift-to-digital)
-- [How Construction Management Software Is Transforming Jobsite Efficiency](https://www.gocanvas.com/blog/construction-management-software-transforms-jobsite-efficiency)
-- [The Evolution of Work Orders and Maintenance Management](https://www.gocanvas.com/blog/the-evolution-of-work-orders-and-maintenance-management)
 
-## Postie (2023-24)
+### Sharing Data Across Teams and Partners
+- [5 epic fails prevented by data collaboration](https://revelate.co/blog/5-epic-fails-prevented-by-data-collaboration/	)
+- [Enhancing Data Exchange with Data Provisioning Processes](https://revelate.co/blog/data-provisioning-the-future-of-efficient-exchanges/	)
+- [Data Provisioning vs ETL: What’s the Difference?](https://revelate.co/blog/data-provisioning-vs-etl/	)
+- [Data Sharing Made Easy with Delta Sharing](https://revelate.co/blog/data-sharing-made-easy-with-delta-sharing/	)
+- [What’s the Difference Between a Data Exchange and a Data Marketplace?](https://revelate.co/blog/difference-between-a-data-exchange-and-a-data-marketplace/)
+- [Exploring Data Request Automation in Advanced Data Exchanges](https://revelate.co/blog/exploring-data-request-automation-in-advanced-data-exchanges/)
+- [External and Internal Data Differences in the Data Marketplace](https://revelate.co/blog/external-and-internal-data-differences-in-the-data-marketplace/	)
+
+- [How Data Marketplaces Shape Modern Data Products](https://revelate.co/blog/how-self-service-business-intelligence-is-quietly-revolutionizing-industries/)
+- [How Data Marketplaces Optimize the Data Request Process](https://revelate.co/blog/optimizing-data-requests-in-data-marketplaces/)
+- [Snowflake’s Data Exchange: Transforming Data Collaboration](https://revelate.co/blog/snowflakes-data-exchange/)
+- [Strategic Data Sharing Enhances Data Product Outcomes](https://revelate.co/blog/strategic-data-sharing-enhances-data-product-outcomes/	)
+- [The Hidden Costs of Poor Data Provisioning](https://revelate.co/blog/the-hidden-costs-of-poor-data-provisioning/	)
+- [The Untold Advantages of Using Internal Data in Sharing Platforms](https://revelate.co/blog/the-untold-advantages-of-internal-data-on-sharing-platforms/)
+- [Unlocking the Value of Partner Data in Business Analytics](https://revelate.co/blog/what-is-a-data-exchange)
+- [Why a Data Marketplace Isn’t Enough](https://revelate.co/blog/why-a-data-marketplace-isnt-enough/)
+
+### Building and Managing Data as a Product
+- [Data Mesh Principles: A New Approach Data Management](https://revelate.co/blog/data-mesh-principles-a-new-approach-data-management/	)
+- [Data Mesh: The Future of Data Management](https://revelate.co/blog/data-mesh/)
+- [Data Productization: Transforming Business Success through Enhanced Data Services](https://revelate.co/blog/data-productization-driving-business-success/)
+- [The Role of Data Products in Data Analysis and Data Visualization](https://revelate.co/blog/data-products-enhancing-analysis-visualization/)
+- [Data Products in Action: Examples and Insights](https://revelate.co/blog/data-products-in-action/	)
+- [How to Build Data Products that Work](https://revelate.co/blog/how-to-build-data-products-that-work/	)
+- [How to Build a Robust Data Product Using Your Organization’s Internal Data](https://revelate.co/blog/make-the-most-of-your-internal-data/	)
+- [Unlocking Business Value: Data Discovery in a Data Mesh Environment](https://revelate.co/blog/unlocking-business-value-data-discovery-in-a-data-mesh-environment/)
+- [What is a Data Product?](https://revelate.co/blog/what-is-a-data-product/)
+
+### Creating a Data-Driven Culture
+- [What a Data Driven Organization Must Look Like](https://revelate.co/blog/data-driven-organization/)
+- [Data Ecosystem Excellence: A Guide to Peak Performance](https://revelate.co/blog/data-ecosystem-excellence/)
+- [Data Enrichment and the Rise of the Customer-Centric Company](https://revelate.co/blog/data-enrichment-and-the-rise-of-the-customer-centric-company/	)
+- [Best practices for data requests](https://revelate.co/blog/best-practices-for-data-requests/)
+- [Best practices for self-service analytics](https://revelate.co/blog/best-practices-for-self-service-analytics/)
+
+### Data Analytics
+- [Maximizing the Power of Data Catalogs With Revelate and Alation](https://revelate.co/blog/maximizing-the-power-of-data-catalogs-with-revelate-and-alation/)
+- [The 6 Most Common Data Quality Issues](https://revelate.co/blog/the-6-most-common-data-quality-issues/)
+- [The Key to Data Insights: Exploring the Benefits of Automated Data Lineage](https://revelate.co/blog/the-benefits-of-automated-data-lineage/)
+- [Understanding Data Lineage and Data Catalog](https://revelate.co/blog/understanding-data-lineage-and-data-catalog/)
+- [The Data Ecosystem Explained: From Basics to Benefits](https://revelate.co/blog/the-data-ecosystem-explained/)
+- [How Data Collaboration Transforms Raw Data Into High-Value Business Intelligence](https://revelate.co/blog/unlocking-business-intelligence-the-role-of-data-collaboration/)
+
+## Kubernetes 
+- [Kubernetes Compliance with ISO 27001: A Strategic Imperative](https://www.compliancecow.com/compliance/kubernetes-compliance-with-iso-27001-a-strategic-imperative/)
+- [Kubernetes Challenges: Container Orchestration and Scaling](https://www.aptible.com/blog/kubernetes-challenges-container-orchestration-and-scaling)
+
+## Marketing
 ### Direct Mail and Omnichannel Marketing Strategies
 - [Planning for 2025: Optimize your Omnichannel Marketing](https://postie.com/blog/master-omnichannel-marketing-your-2025-strategy-guide/)
 - [When and How to Add a New Channel to Your Marketing Mix](https://postie.com/blog/adding-a-new-channel-to-your-marketing-mix/)
@@ -148,71 +212,14 @@
 
 ### Direct Mail Innovation
 - [The Rise of Retail Media Networks](https://postie.com/blog/exploring-the-growth-of-retail-media-networks/)
-- [The Power of Algorithms in Direct Mail Marketing](https://postie.com/blog/the-power-of-algorithms-in-direct-mail-marketing/)
-- [When Direct Mail Meets Deep Learning A Perfect Match](https://docs.google.com/document/d/1wLrWHzGcxx6GJzSHAKSPl0jH-edcOQcvlXFRQILzieI/edit?usp=sharing)
-- [Level-Up Your First Party Data with CRM Optimization](https://postie.com/blog/level-up-your-first-party-data-with-crm-optimization/)
-- [When Direct Mail Meets Deep Learning: A Perfect Match](https://postie.com/blog/revolutionizing-direct-mail-with-deep-learning-insights/)
-- [Automation and Direct Mail: Streamlining Your Campaigns](https://postie.com/blog/streamline-campaigns-with-direct-mail-automation/)
-- [Why the Future of Direct Mail Marketing is Machine Learning](https://postie.com/blog/why-the-future-of-direct-mail-marketing-is-machine-learning/)
+- [The Power of Algorithms in Direct Mail Marketing](https://postie.com/blog/the-power-of-algorithms-in-direct-mail-marketing/) 
+- [Level-Up Your First Party Data with CRM Optimization](https://postie.com/blog/level-up-your-first-party-data-with-crm-optimization/) 
+- [Automation and Direct Mail: Streamlining Your Campaigns](https://postie.com/blog/streamline-campaigns-with-direct-mail-automation/) 
 - [Maximizing Customer Retention with Direct Mail Strategies](https://postie.com/blog/maximizing-customer-retention-with-direct-mail-strategies/)
 - [Why Personalized Direct Mail Boosts Customer Engagement](https://postie.com/blog/why-personalized-direct-mail-boosts-customer-engagement/)
 - [Maximize Customer Engagement with Performance Direct Mail](https://postie.com/blog/boosting-customer-connections-through-direct-mail/)
 
-## Quantum Insider (2023)
-- [10 Enterprises Experimenting with Quantum Technology in 2023](https://thequantuminsider.com/2023/05/12/10-enterprises-experimenting-with-quantum-technology-in-2023/)
-- [4 Countries That Began Funding Quantum Initiatives in 2022](https://thequantuminsider.com/2023/05/16/4-countries-that-began-funding-quantum-initiatives-in-2022/)
-- [10 Quantum Computing Groups Known for Collaborating With Startups](https://thequantuminsider.com/2023/04/03/10-quantum-computing-groups-known-for-collaborating-with-startups/)
-
-## Revelate (2023)
-### Sharing Data Across Teams and Partners
-- [5 epic fails prevented by data collaboration](https://revelate.co/blog/5-epic-fails-prevented-by-data-collaboration/	)
-- [Enhancing Data Exchange with Data Provisioning Processes](https://revelate.co/blog/data-provisioning-the-future-of-efficient-exchanges/	)
-- [Data Provisioning vs ETL: What’s the Difference?](https://revelate.co/blog/data-provisioning-vs-etl/	)
-- [Data Sharing Made Easy with Delta Sharing](https://revelate.co/blog/data-sharing-made-easy-with-delta-sharing/	)
-- [What’s the Difference Between a Data Exchange and a Data Marketplace?](https://revelate.co/blog/difference-between-a-data-exchange-and-a-data-marketplace/)
-- [Exploring Data Request Automation in Advanced Data Exchanges](https://revelate.co/blog/exploring-data-request-automation-in-advanced-data-exchanges/)
-- [External and Internal Data Differences in the Data Marketplace](https://revelate.co/blog/external-and-internal-data-differences-in-the-data-marketplace/	)
-- [How AI is Revolutionizing Data Collaboration](https://revelate.co/blog/how-ai-is-revolutionizing-data-collaboration/	)
-- [How Data Marketplaces Shape Modern Data Products](https://revelate.co/blog/how-self-service-business-intelligence-is-quietly-revolutionizing-industries/)
-- [How Data Marketplaces Optimize the Data Request Process](https://revelate.co/blog/optimizing-data-requests-in-data-marketplaces/)
-- [Snowflake’s Data Exchange: Transforming Data Collaboration](https://revelate.co/blog/snowflakes-data-exchange/)
-- [Strategic Data Sharing Enhances Data Product Outcomes](https://revelate.co/blog/strategic-data-sharing-enhances-data-product-outcomes/	)
-- [The Hidden Costs of Poor Data Provisioning](https://revelate.co/blog/the-hidden-costs-of-poor-data-provisioning/	)
-- [The Untold Advantages of Using Internal Data in Sharing Platforms](https://revelate.co/blog/the-untold-advantages-of-internal-data-on-sharing-platforms/)
-- [Unlocking the Value of Partner Data in Business Analytics](https://revelate.co/blog/what-is-a-data-exchange)
-- [Why a Data Marketplace Isn’t Enough](https://revelate.co/blog/why-a-data-marketplace-isnt-enough/)
-
-### Building and Managing Data as a Product
-- [Data Mesh Principles: A New Approach Data Management](https://revelate.co/blog/data-mesh-principles-a-new-approach-data-management/	)
-- [Data Mesh: The Future of Data Management](https://revelate.co/blog/data-mesh/)
-- [Data Productization: Transforming Business Success through Enhanced Data Services](https://revelate.co/blog/data-productization-driving-business-success/)
-- [The Role of Data Products in Data Analysis and Data Visualization](https://revelate.co/blog/data-products-enhancing-analysis-visualization/)
-- [Data Products in Action: Examples and Insights](https://revelate.co/blog/data-products-in-action/	)
-- [How to Build Data Products that Work](https://revelate.co/blog/how-to-build-data-products-that-work/	)
-- [How to Build a Robust Data Product Using Your Organization’s Internal Data](https://revelate.co/blog/make-the-most-of-your-internal-data/	)
-- [Unlocking Business Value: Data Discovery in a Data Mesh Environment](https://revelate.co/blog/unlocking-business-value-data-discovery-in-a-data-mesh-environment/)
-- [What is a Data Product?](https://revelate.co/blog/what-is-a-data-product/)
-
-### Creating a Data-Driven Culture
-- [What a Data Driven Organization Must Look Like](https://revelate.co/blog/data-driven-organization/)
-- [Data Ecosystem Excellence: A Guide to Peak Performance](https://revelate.co/blog/data-ecosystem-excellence/)
-- [Data Enrichment and the Rise of the Customer-Centric Company](https://revelate.co/blog/data-enrichment-and-the-rise-of-the-customer-centric-company/	)
-- [Best practices for data requests](https://revelate.co/blog/best-practices-for-data-requests/)
-- [Best practices for self-service analytics](https://revelate.co/blog/best-practices-for-self-service-analytics/)
-
-### Getting Data Ready for AI and Analytics	
-- [Data for AI: The Fuel that Supercharges Machine Learning](https://revelate.co/blog/data-for-ai-the-fuel-that-supercharges-machine-learning/	)
-- [Optimizing Data Pipelines for AI Applications](https://revelate.co/blog/optimizing-data-pipelines-for-ai-applications/)
-- [Don’t Let Bad Data Could Ruin Your AI Dreams](https://revelate.co/blog/how-bad-data-can-derail-your-ai-projects/	)
-- [Machine Learning Data Catalogs Enhance Data Discoverability](https://revelate.co/blog/machine-learning-data-catalogs-enhance-data-discoverability/)
-- [Maximizing the Power of Data Catalogs With Revelate and Alation](https://revelate.co/blog/maximizing-the-power-of-data-catalogs-with-revelate-and-alation/)
-- [The 6 Most Common Data Quality Issues](https://revelate.co/blog/the-6-most-common-data-quality-issues/)
-- [The Key to Data Insights: Exploring the Benefits of Automated Data Lineage](https://revelate.co/blog/the-benefits-of-automated-data-lineage/)
-- [Understanding Data Lineage and Data Catalog](https://revelate.co/blog/understanding-data-lineage-and-data-catalog/)
-- [The Data Ecosystem Explained: From Basics to Benefits](https://revelate.co/blog/the-data-ecosystem-explained/)
-- [How Data Collaboration Transforms Raw Data Into High-Value Business Intelligence](https://revelate.co/blog/unlocking-business-intelligence-the-role-of-data-collaboration/)
-
-## TipRanks (2024)
+## Stock Analysis
 - [Can Digital Ocean Keep Up Its Strong Growth](https://www.tipranks.com/news/can-digitalocean-nasdaqdocn-keep-up-its-high-growth)
 - [Powered by AI, UiPath Is Gaining Strength](https://www.tipranks.com/news/powered-by-ai-uipath-nysepath-is-becoming-stronger)
 - [Snowflake Stock Now Attractive After 30% Tumble](https://www.tipranks.com/news/snowflake-stock-nasdaqsnow-now-attractive-after-tumbling)
@@ -224,12 +231,8 @@
 - [Eli Lilly Stock (NYSE:LLY): Bullish on Innovation and Pharmaceutical Success](https://www.tipranks.com/news/eli-lilly-stock-nyselly-bullish-on-innovation-and-pharmaceutical-success)
 - [Snap Stock (NYSE:SNAP): Growth Trajectory Is Mixed after Recent Setbacks](https://www.tipranks.com/news/snap-stock-nysesnap-growth-trajectory-is-mixed-after-recent-setbacks)
 
-## Yahoo Finance (2021)
-- [Breaking Bitcoin: ECDSA vs XMSS](https://finance.yahoo.com/news/breaking-bitcoin-ecdsa-vs-xmss-203407645.html)
-- [Is Bitcoin (BTC) Safe from Grover's Algorithm?](https://finance.yahoo.com/news/bitcoin-btc-safe-grovers-algorithm-151737053.html)
-- [From Scalpels to Qubits: The Story of the World's First Post-Quantum Blockchain](https://finance.yahoo.com/news/scalpels-qubits-story-worlds-first-131800504.html)
 
-## Enter Quantum (2023-24)
+## Quantum Computing
 ### National Strategies and Funding Initiatives
 - [US Government Renews Quantum Initiative Act](https://www.iotworldtoday.com/industry/us-government-renews-quantum-initiative-act)
 - [UK Government Awards $19M to Quantum Projects](https://www.iotworldtoday.com/industry/uk-government-awards-19m-to-quantum-projects-)
@@ -359,9 +362,7 @@
 - [D-Wave Explores Quantum for Advertising](https://www.iotworldtoday.com/iiot/d-wave-explores-quantum-for-advertising)
 
 ### AI, ML & Advanced Computing Integration
-- [QCI, Millionways Partner on Quantum Computing for Machine Learning](https://www.iotworldtoday.com/industry/qci-millionways-partner-on-quantum-computing-for-machine-learning)
-- [Quantum Machine Learning Powers Medical Diagnostics](https://www.iotworldtoday.com/health-care/quantum-machine-learning-powers-medical-diagnostics)
-- [Quantum Computing and AI Combine for Drug Discovery](https://www.iotworldtoday.com/health-care/quantum-computing-and-ai-combined-for-drug-discovery)
+
 
 ### Security & Cryptography
 - [Google Introduces Chrome Quantum Attack Protection](https://www.iotworldtoday.com/security/google-chrome-to-protect-against-quantum-attacks)
@@ -405,3 +406,8 @@
 - [German Aerospace Center Taps Quantum for Aeronautics and Space](https://www.iotworldtoday.com/transportation-logistics/german-aerospace-center-taps-quantum-for-aeronautics-and-space)
 - [Nord Quantique Unveils New Technique for Scalable Qubit Error Correction](https://www.iotworldtoday.com/quantum/nord-quantique-unveils-new-technique-for-scalable-qubit-error-correction)
 - [US Tops List of China’s Origin Wukong Quantum Computer Users](https://www.iotworldtoday.com/quantum/us-tops-list-of-china-s-origin-wukong-quantum-computer-users)
+
+- [10 Enterprises Experimenting with Quantum Technology in 2023](https://thequantuminsider.com/2023/05/12/10-enterprises-experimenting-with-quantum-technology-in-2023/)
+- [4 Countries That Began Funding Quantum Initiatives in 2022](https://thequantuminsider.com/2023/05/16/4-countries-that-began-funding-quantum-initiatives-in-2022/)
+- [10 Quantum Computing Groups Known for Collaborating With Startups](https://thequantuminsider.com/2023/04/03/10-quantum-computing-groups-known-for-collaborating-with-startups/)
+
