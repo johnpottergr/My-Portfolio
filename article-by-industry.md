@@ -1,4 +1,4 @@
-# Artcle Portfolio by Industry
+# Article Portfolio by Industry
 
 - [AI and Machine Learning](#ai-and-machine-learning)
 - [Blockchain](#blockchain)
