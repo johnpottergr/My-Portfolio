@@ -154,7 +154,7 @@
 ### Direct Mail Innovation
 - [The Rise of Retail Media Networks](https://postie.com/blog/exploring-the-growth-of-retail-media-networks/)
 - [The Power of Algorithms in Direct Mail Marketing](https://postie.com/blog/the-power-of-algorithms-in-direct-mail-marketing/)
-- [When Direct Mail Meets Deep Learning A Perfect Match](https://docs.google.com/document/d/1wLrWHzGcxx6GJzSHAKSPl0jH-edcOQcvlXFRQILzieI/edit?usp=sharing)
+- [When Direct Mail Meets Deep Learning A Perfect Match](https://postie.com/blog/revolutionizing-direct-mail-with-deep-learning-insights/)
 - [Level-Up Your First Party Data with CRM Optimization](https://postie.com/blog/level-up-your-first-party-data-with-crm-optimization/)
 - [When Direct Mail Meets Deep Learning: A Perfect Match](https://postie.com/blog/revolutionizing-direct-mail-with-deep-learning-insights/)
 - [Automation and Direct Mail: Streamlining Your Campaigns](https://postie.com/blog/streamline-campaigns-with-direct-mail-automation/)
