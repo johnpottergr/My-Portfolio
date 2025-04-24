@@ -1,13 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Technical Content Writer Blog</title>
+        <title>John Potters Professional Website Blog</title>
         <link>https://johnpottergr.com/blog</link>
-        <description>Technical Content Writer Blog</description>
-        <lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <description>John Potters Professional Website Blog</description>
+        <lastBuildDate>Sun, 20 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How Mintlify is Changing API Documentation]]></title>
+            <link>https://johnpottergr.com/blog/4-20-2025-mintlify-is-changing-api-docs</link>
+            <guid>https://johnpottergr.com/blog/4-20-2025-mintlify-is-changing-api-docs</guid>
+            <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[For years, API documentation has lived in a strange place—necessary but neglected, important but often out of sync with the product it describes. Developers need docs to build, but maintaining them has traditionally meant choosing between clunky static pages, auto-generated markdown dumps, or overengineered CMS tools that feel more like publishing software than developer platforms.]]></description>
+            <content:encoded><![CDATA[<p>For years, API documentation has lived in a strange place—necessary but neglected, important but often out of sync with the product it describes. Developers need docs to build, but maintaining them has traditionally meant choosing between clunky static pages, auto-generated markdown dumps, or overengineered CMS tools that feel more like publishing software than developer platforms.</p>
+<p>Mintlify is trying to flip that on its head, and with the introduction of <strong>Mintlify MCP (Maintainer Control Panel)</strong>, they’re making a strong case for what modern API docs should look like—and how they should be managed.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-mintlify-mcp">What Is Mintlify MCP?<a href="https://johnpottergr.com/blog/4-20-2025-mintlify-is-changing-api-docs#what-is-mintlify-mcp" class="hash-link" aria-label="Direct link to What Is Mintlify MCP?" title="Direct link to What Is Mintlify MCP?">​</a></h2>
+<p>Mintlify MCP isn’t just a documentation editor. It’s a centralized control panel that sits on top of your existing codebase and documentation, giving you visibility, version control integration, and collaboration tools all in one place.</p>
+<p>Think of it like this: if your dev team is already keeping docs close to code, MCP makes sure those docs stay accurate, up-to-date, and consistent—without pulling anyone into a separate platform. You can flag outdated endpoints, monitor what’s being used (or ignored), and get insights into how your docs are performing.</p>
+<p><strong>Some standout features include:</strong></p>
+<ul>
+<li><strong>Live feedback from users</strong> (right in the docs)</li>
+<li><strong>GitHub-native change management</strong> (suggest edits, review in PRs)</li>
+<li><strong>Versioned docs tied to deployments</strong></li>
+<li><strong>Analytics on engagement and usage</strong></li>
+</ul>
+<p>It's API documentation with an actual feedback loop—something most dev teams haven’t had before.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-this-matters">Why this matters<a href="https://johnpottergr.com/blog/4-20-2025-mintlify-is-changing-api-docs#why-this-matters" class="hash-link" aria-label="Direct link to Why this matters" title="Direct link to Why this matters">​</a></h2>
+<p>API documentation often becomes stale the moment it’s written. Products move fast. Endpoints change. Teams ship new features weekly. Unless you have a dedicated tech writer or a very disciplined team, your docs are probably wrong somewhere—and no one wants to be the engineer who stops coding to update docs.</p>
+<p>Mintlify MCP brings automation and accountability into the process. It treats docs like code (with diffs, versioning, and reviews), while also giving maintainers tools to monitor what actually gets read and where people get stuck. That turns documentation from a static reference into a living part of the development cycle.</p>
+<p>For API-first products and fast-growing dev tools, this can be a serious unlock. Clean, accurate, and well-managed docs aren’t just nicer—they reduce support tickets, shorten onboarding time, and build trust with external devs.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="docs-are-no-longer-an-afterthought">Docs are no longer an afterthought<a href="https://johnpottergr.com/blog/4-20-2025-mintlify-is-changing-api-docs#docs-are-no-longer-an-afterthought" class="hash-link" aria-label="Direct link to Docs are no longer an afterthought" title="Direct link to Docs are no longer an afterthought">​</a></h2>
+<p>The rise of tools like Mintlify MCP is part of a bigger shift: documentation is becoming infrastructure. It’s not just something you publish once—it’s something you maintain like a product. And if your product <em>is</em> an API, then the docs are the front door.</p>
+<p>With the Maintainer Control Panel, Mintlify is pushing for a future where dev teams aren’t just writing better documentation—they’re actually empowered to keep it alive.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Tech Powering SaucerSwap]]></title>
+            <link>https://johnpottergr.com/blog/4-10-2025-the-tech-powering</link>
+            <guid>https://johnpottergr.com/blog/4-10-2025-the-tech-powering</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you’ve ever wondered what’s going on under the hood of SaucerSwap, here’s the quick version: it’s a decentralized exchange (DEX) built on Hedera—and that choice isn’t just for show. Hedera runs on a technology called Hashgraph, which flips the script on how most blockchains work. The difference has real consequences for how fast, cheap, and reliable a platform like SaucerSwap can be.]]></description>
+            <content:encoded><![CDATA[<p>If you’ve ever wondered what’s going on under the hood of SaucerSwap, here’s the quick version: it’s a decentralized exchange (DEX) built on Hedera—and that choice isn’t just for show. Hedera runs on a technology called Hashgraph, which flips the script on how most blockchains work. The difference has real consequences for how fast, cheap, and reliable a platform like SaucerSwap can be.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="not-built-on-blockchain">Not built on blockchain<a href="https://johnpottergr.com/blog/4-10-2025-the-tech-powering#not-built-on-blockchain" class="hash-link" aria-label="Direct link to Not built on blockchain" title="Direct link to Not built on blockchain">​</a></h2>
+<p>Let’s back up for a second. Most DEXs reside on Ethereum or similar chains. That means they rely on traditional blockchain architecture: a chain of blocks, added one after the other, with each block holding a bunch of transactions. It’s a tried-and-true system, but it has its limits, with network congestion, high fees, and latency being the big ones.</p>
+<p>Hedera’s Hashgraph works differently. Instead of blocks, it uses a <a href="https://hazelcast.com/foundations/distributed-computing/directed-acyclic-graph/" target="_blank" rel="noopener noreferrer">directed acyclic graph (DAG)</a>—a data structure where transactions aren’t stacked linearly, but spread out and recorded in parallel. Techies use a <a href="https://docs.hedera.com/hedera/core-concepts/hashgraph-consensus-algorithms/gossip-about-gossip" target="_blank" rel="noopener noreferrer">gossip-about-gossip protocol</a> here, which means every node quickly shares info with random others. Over time, the whole network has a complete picture of what happened and when, with no mining, leader, or lag.</p>
+<img src="https://johnpottergr.com/img/hashgraph.jpg" width="600">
+<p>The way Hashgraph handles consensus is key. Every transaction comes with a timestamp, and the network uses a virtual voting mechanism to agree on the order of events. That’s how it moves so fast—thousands of transactions per second, and everything settles in seconds instead of minutes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="real-time-settlement-low-fees">Real-time settlement, low fees<a href="https://johnpottergr.com/blog/4-10-2025-the-tech-powering#real-time-settlement-low-fees" class="hash-link" aria-label="Direct link to Real-time settlement, low fees" title="Direct link to Real-time settlement, low fees">​</a></h2>
+<p>For a DEX like SaucerSwap, the Hashgraph technology makes a big difference. Trades get confirmed almost instantly. While <a href="https://www.investopedia.com/terms/s/slippage.asp" target="_blank" rel="noopener noreferrer">slippage</a> is still largely a factor of liquidity and trading volume, it's much lower. And it's practically impossible for bots to exploit transaction delay windows. The entire trading experience feels snappier and more predictable, even when the market’s moving fast.</p>
+<p>The tech also leads to lower costs. Because no miners compete for block space, gas fees on SaucerSwap are low and predictable. Think in terms of fractions of a cent. The hashgraph tech opens the door for microtransactions and lower-volume activity that would be priced out on other platforms. You don’t have to think twice about trying a swap just to see how a token behaves. And all fees are fixed and denominated in USD-equivalent HBAR.</p>
+<p>Predictable performance is another upside. Since Hashgraph isn’t battling network congestion in the same way as other chains, you don’t get stuck waiting for a transaction to go through during peak times. The throughput is consistent, and that predictability is worth a lot in a trading environment.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="native-token-support-via-hts">Native token support via HTS<a href="https://johnpottergr.com/blog/4-10-2025-the-tech-powering#native-token-support-via-hts" class="hash-link" aria-label="Direct link to Native token support via HTS" title="Direct link to Native token support via HTS">​</a></h2>
+<p>SaucerSwap is tightly integrated with <a href="https://hedera.com/token-service" target="_blank" rel="noopener noreferrer">Hedera Token Service (HTS)</a>, which handles the basics—creating tokens, transferring them, freezing or wiping them—without the need for smart contracts. It’s native, fast, and cheap. So, for most token operations, SaucerSwap can skip the overhead of smart contracts and rely on HTS to do the heavy lifting.</p>
+<p>But when it comes to more complex functionality—things like routing trades across multiple pools, setting custom logic for incentives, or interacting with other DeFi protocols—SaucerSwap taps into Hedera’s Smart Contract Service. This service is EVM-compatible, meaning developers can write in Solidity and build the kinds of applications they’re used to building on Ethereum.</p>
+<p>The difference is that those smart contracts run on Hedera’s Hashgraph under the hood, so you still get low fees and high throughput.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="final-thoughts">Final thoughts<a href="https://johnpottergr.com/blog/4-10-2025-the-tech-powering#final-thoughts" class="hash-link" aria-label="Direct link to Final thoughts" title="Direct link to Final thoughts">​</a></h2>
+<p>The entire SaucerSwap setup helps make operations smooth for users and developers. Less friction, fewer surprises. It’s not out to reinvent DeFi, but it shows what DeFi can look like when you build it on something faster and more scalable right from the start.</p>
+<p>So while you could use SaucerSwap without knowing a thing about DAGs, Hashgraph, or the rest of the tech stack, understanding what powers the DEX helps explain why it runs the way it does. Building something yourself on the DEX might make you rethink what kind of infrastructure you want under your project.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Top 5 Use Cases for Saucerswap]]></title>
             <link>https://johnpottergr.com/blog/4-02-2025-top-5-use-cases</link>
@@ -21,7 +75,7 @@
 <p>Swapping HBAR for USDC or newer HTS tokens feels smooth, and with SaucerSwap V2’s concentrated liquidity, slippage stays low—even in smaller pools. The smoother experience is helping SaucerSwap pull users away from <a href="https://uniswap.org/" target="_blank" rel="noopener noreferrer">Uniswap</a> and other Ethereum-based DEXs.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-liquidity-provision-and-yield-farming">2: Liquidity Provision and Yield Farming<a href="https://johnpottergr.com/blog/4-02-2025-top-5-use-cases#2-liquidity-provision-and-yield-farming" class="hash-link" aria-label="Direct link to 2: Liquidity Provision and Yield Farming" title="Direct link to 2: Liquidity Provision and Yield Farming">​</a></h2>
 <p>The process to provide liquidity on SaucerSwap is simple: pick a token pair, deposit both tokens into a pool, and get LP tokens in return. In return, you earn 0.25% of every swap made in that pool. It’s passive, steady, and a big draw for yield-focused users.</p>
-<p>In 2025, SaucerSwap raised the bar with the Liquidity-Aligned Reward Initiative, or LARI. It adds dual rewards—HBAR and SAUCE—to the mix. It also gives users more incentive to stick around. Once you possess LP tokens, you can stake them using the Masterchef contract. Your tokens stay in the pool, earning fees and rewards while you do nothing.</p>
+<p>SaucerSwap has raised the bar with its Liquidity-Aligned Reward Initiative, or LARI. The program offers dual rewards—HBAR and SAUCE—for users who provide liquidity in its V2 concentrated liquidity pools. Instead of traditional LP tokens, your position is represented by an NFT. That NFT can then be staked using the Masterchef contract, allowing you to earn fees and rewards while your liquidity stays active in the pool.</p>
 <p>The desire for passive income has attracted long-term investors looking beyond quick gains. It has also added real depth and stability to SaucerSwap’s liquidity. The result is a trading platform where traders can park their assets and earn over time. Growing user commitment is turning it into a central hub for DeFi activity on <a href="https://hedera.com/" target="_blank" rel="noopener noreferrer">Hedera</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-governance-via-sauce-token">3: Governance via SAUCE Token<a href="https://johnpottergr.com/blog/4-02-2025-top-5-use-cases#3-governance-via-sauce-token" class="hash-link" aria-label="Direct link to 3: Governance via SAUCE Token" title="Direct link to 3: Governance via SAUCE Token">​</a></h2>
 <p>The SAUCE token does more than reward users—it opens the door to governance. As SaucerSwap’s decision-making tool, SAUCE gives holders the ability to vote on key protocol updates, including fee structures, liquidity incentives, and reward mechanisms. In 2025, the DAO continues to expand its role, with potential votes on cross-chain integrations like <a href="https://axelar.network/" target="_blank" rel="noopener noreferrer">Axelar</a> outlined in recent roadmaps.</p>
